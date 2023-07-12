@@ -30,9 +30,9 @@ Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 
 ##
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1237"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1237&layout=compact"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 
 </p>
 
