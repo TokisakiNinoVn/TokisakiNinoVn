@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/Elysia_.jpg"/>
 </div>
-
-## Hello!👋 I'm Nino! Nice to meet you!
-**`💖 Code - Anime - Game - Music`** 
+<h2 align="center"> Hello!👋 I'm Nino! Nice to meet you!</h2>
+<h2 align="center">💖Code-Anime-Game-Music💖</h2>
 
 ## ꧁ About me ꧂
 - Full name: Tokisaki Nino.
