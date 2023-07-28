@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/TokisakiNinoVn"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/Elysia_.jpg"/></a></div>
+<div align="center"><a href="https://github.com/TokisakiNinoVn"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/></a></div>
 <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you!</h2>
 <h2 align="center">💖Code-Anime-Game-Music💖</h2>
 
