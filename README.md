@@ -1,5 +1,8 @@
-## Hello friend!
-## 👋 I'm Nino! Nice to meet you!
+<div align="center">
+    <img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/Elysia_.jpg"/>
+</div>
+
+## Hello!👋 I'm Nino! Nice to meet you!
 **`💖 Code - Anime - Game - Music`** 
 
 ## ꧁ About me ꧂
