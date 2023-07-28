@@ -6,7 +6,7 @@
 
 ## ꧁ About me ꧂
 <a align="right" href="https://nino.is-a.dev/Sugoi_Last27_7/index.html">
-    <img align="right" width="150" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/previeview_hide.jpg"/>
+    <img align="right" width="135" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/previeview_hide.jpg"/>
 </a>
 
 - Full name: Tokisaki Nino.
