@@ -5,11 +5,16 @@
 <h2 align="center">💖Code-Anime-Game-Music💖</h2>
 
 ## ꧁ About me ꧂
+<a align="right" href="https://nino.is-a.dev/Sugoi_Last27_7/index.html">
+    <img align="right" width="16%" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/previeview_hide.jpg"/>
+</a>
+
 - Full name: Tokisaki Nino.
 - Nickname: Sugoii.
 - Age: 18 (Maybe).
 - Learning & using language: C/C++, Java
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
+
 ## ꧁ Game ꧂
     ❖ GI Asia: 855962110
     ❖ HI3: 22123959
