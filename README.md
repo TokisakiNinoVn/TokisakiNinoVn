@@ -2,28 +2,28 @@
 ## 👋 I'm Nino! Nice to meet you!
 **`💖 Code - Anime - Game - Music`** 
 
-## ꧁____________ About me ____________꧂
+## ꧁ About me ꧂
 - Full name: Tokisaki Nino.
 - Nickname: Sugoii.
 - Age: 18 (Maybe).
 - Learning & using language: C/C++, Java
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
-## ꧁____________ Game ____________꧂
+## ꧁ Game ꧂
     ❖ GI Asia: 855962110
     ❖ HI3: 22123959
     ❖ PUBGM Asia: 『Nino』UwU.
 <a href="https://enka.network/u/855962110/">GI More</a>
 
-## ꧁____________ Anime ____________꧂
+## ꧁ Anime ꧂
 Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 
-## ꧁____________ Fact ____________꧂
+## ꧁ Facts ꧂
 - Waifu: Tokisaki Kurumi (DaL), Elysia (HI3).
 -  Girlfriend? I haven't thought about it yet, but if possible I'd like her to like Anime as well because I can cosplay the characters she likes and I also like her to have the "Yandere" personality - it's probably normal huh?.
 - My favorite quote: "What kind of person do you expect me to be? Normal partner? Self-training subjects? A social acquaintance... or... an important teammate? Based on your attitude and expectations, I will "play" or "become" one of them." - Yelan - Genshin Impact.
 - My hashtag: #Sugoii.F #LoveYandere #Anime #Kurumi #Traverler #Captain #Blueblood #Whriteroom
 
-## ꧁____________ Contact ____________꧂
+## ꧁ Contact ꧂
 
 <center>
 <a href="https://www.facebook.com/nino.real.memory"><img align="center" width="50" src="https://i.pinimg.com/originals/fb/53/75/fb5375c25788d80c83cf8c63059a07c6.jpg" style="border-radius: 20%; margin: 5px;"/>
@@ -33,7 +33,7 @@ Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 </a>
 </center>
 
-## ꧁____________ Github summary ____________꧂
+## ꧁ Github summary ꧂
 
 
 <p align="center">
