@@ -49,4 +49,6 @@ Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
   <img alt="github contribution grid snake animation" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
+##
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
 
