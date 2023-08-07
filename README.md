@@ -1,12 +1,11 @@
-<a href="https://github.com/marketplace/actions/update-image-readme">
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/extended.jpg height=180px width=180px align=right alt=<alt-message> />
-<!--END_SECTION:update_image-->
-</a>
-
 <div align="center">
     <a href="https://github.com/TokisakiNinoVn">
-        <img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/>
+    <a href="https://github.com/marketplace/actions/update-image-readme">
+    <!--START_SECTION:update_image-->
+    <img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/extended.jpg height=auto width=auto align=right alt=<alt-message>
+    <!--END_SECTION:update_image-->
+    </a>
+    <!--<img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/> -->
     </a>
 </div>
 <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you!</h2>
