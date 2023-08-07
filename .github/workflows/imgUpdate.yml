@@ -3,7 +3,6 @@ name: Update Image Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 1 UTC everyday
     - cron: "*/5 * * * *"
 
 jobs:
