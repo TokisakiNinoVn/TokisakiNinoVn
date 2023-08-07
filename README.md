@@ -2,8 +2,8 @@
     <a href="https://github.com/TokisakiNinoVn">
     <a href="https://github.com/marketplace/actions/update-image-readme">
     <!--START_SECTION:update_image-->
-    <img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/extended.jpg height=auto width=auto align=right>
-    <!--END_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/21c24e5b8ed6dcfcc7da784a5d9e47e5.gif height=180px width=180px align=right alt=<alt-message> />
+<!--END_SECTION:update_image-->
     </a>
     <!--<img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/> -->
     </a>
