@@ -1,3 +1,6 @@
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
 <div align="center">
     <a href="https://github.com/TokisakiNinoVn">
         <img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/>
