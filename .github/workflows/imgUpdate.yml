@@ -13,4 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          IMG_ALT: <Sorry!> #image alt to be displayed if image is not mapped correctly
+          auto: true
+          height: auto 
+          IMG_ALT: "<Sorry!>"
+          align: "center"
