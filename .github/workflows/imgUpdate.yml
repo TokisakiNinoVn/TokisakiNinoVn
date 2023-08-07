@@ -13,7 +13,7 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}     # Cần thiết nếu README repository không phải là repo của profile
-          README_REPOSITORY: <username>/<differentrepo>  # Cần thiết nếu README repository không phải là repo hiện tại
+          #README_REPOSITORY: <username>/<differentrepo>  # Cần thiết nếu README repository không phải là repo hiện tại
           #IMG_PATH: <your-image-directory>        # Cần thiết nếu hình ảnh không nằm trong thư mục .github/images của image repository
           #IMG_REPOSITORY: <username>/<imagerepo>  # Cần thiết nếu hình ảnh không nằm trong repo hiện tại
           HEIGHT: auto       # mặc định
