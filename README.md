@@ -8,7 +8,6 @@
 </a>
 
 - Full name: Tokisaki Nino.
-- Nickname: Sugoii.
 - Age: 18 (Maybe).
 - Learning & using language: C/C++, Java
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
