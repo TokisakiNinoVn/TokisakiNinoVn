@@ -11,6 +11,6 @@ jobs:
     name: Update Image README
     runs-on: ubuntu-latest
     steps:
-      - uses: tokisakininovn/update-readme-image@main
+      - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: <alt-message> #image alt to be displayed if image is not mapped correctly
