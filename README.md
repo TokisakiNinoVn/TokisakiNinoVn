@@ -22,7 +22,7 @@
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
 - 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Profile Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
 
 ## ꧁ Game ꧂
     ❖ GI Asia: 855962110
