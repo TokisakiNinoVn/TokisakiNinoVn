@@ -20,6 +20,9 @@
 - Age: 18 (Maybe).
 - Learning & using language: C/C++, Java
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
+- 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
 
 ## ꧁ Game ꧂
     ❖ GI Asia: 855962110
@@ -49,7 +52,6 @@ Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></p>
 
-`If you have any questions or simply want to talk about your day, I'm always ready to hear from you. I'm always here, waiting for you!🍀🍀🍀`
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake-dark.svg">
@@ -58,4 +60,4 @@ Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 </picture>
 
 ##
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
+`If you have any questions or simply want to talk about your day, I'm always ready to hear from you. I'm always here, waiting for you!🍀🍀🍀`
