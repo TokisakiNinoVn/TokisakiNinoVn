@@ -9,7 +9,7 @@
     </a>
 </div>
 <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you!</h2>
-<h2 align="center">💖Code-Anime-Game-Music💖</h2>
+<h2 align="center">💖Queen-Code-Anime-Game-Music💖</h2>
 
 ## ꧁ About me ꧂
 <a align="right" href="https://nino.is-a.dev/Sugoi_Last27_7/index.html" target="_blank">
