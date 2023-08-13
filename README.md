@@ -12,7 +12,7 @@
 <h2 align="center">💖Queen-Code-Anime-Game-Music💖</h2>
 
 ## ꧁ About me ꧂
-<a align="right" href="https://nino.is-a.dev/Sugoi_Last27_7/index.html" target="_blank">
+<a align="right" href="https://nino.is-a.dev/" target="_blank">
     <img align="right" width="120" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/previeview_hide.jpg"/>
 </a>
 
