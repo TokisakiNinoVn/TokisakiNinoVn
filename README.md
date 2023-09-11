@@ -34,7 +34,6 @@
 Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
 
 ## ꧁ Facts ꧂
-- Waifu: Tokisaki Kurumi (DaL), Elysia (HI3), Hoshino Ai (Oshi no Ko).
 -  Girlfriend? I haven't thought about it yet, but if possible I'd like her to like Anime as well because I can cosplay the characters she likes and I also like her to have the "Yandere" personality - it's probably normal huh?.
 - My favorite quote: "What kind of person do you expect me to be? Normal partner? Self-training subjects? A social acquaintance... or... an important teammate? Based on your attitude and expectations, I will "play" or "become" one of them." - Yelan - Genshin Impact.
 - My hashtag: #Sugoii.F #LoveYandere #Anime #Kurumi #Traverler #Captain #Blueblood #Whriteroom
