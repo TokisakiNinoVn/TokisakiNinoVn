@@ -20,15 +20,10 @@
 - Age: !18?.
 - Learning & using language: C/C++/C#, Java, Python, Js.
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
-- 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tokisakininovn&label=Profile Views&color=ce9927&style=flat" alt="tokisakininovn" /> </p>
 
 ## ꧁ Game ꧂
-    ❖ GI Asia: 855962110
-    ❖ HI3: 22123959
-    ❖ PUBGM Asia: 『Nino』UwU.
-<a href="https://enka.network/u/855962110/">GI More</a>
+Genshin Impact, HonkaiImpact3rd, PUBG, CS2, 
 
 ## ꧁ Anime ꧂
 Hashtag: #romcom#reallife#school#truelove#vampire#drama#shounen
