@@ -18,7 +18,7 @@
 
 - Full name: Tokisaki Nino.
 - Age: !18?.
-- Learning & using language: C/C++, Java
+- Learning & using language: C/C++/C#, Java, Python, Js.
 - Discord: <a href="https://enka.network/u/855962110/">tokisakinino</a>.
 - 
 
