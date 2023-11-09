@@ -2,7 +2,7 @@
     <a href="https://github.com/TokisakiNinoVn">
     <a href="https://github.com/marketplace/actions/update-image-readme">
     <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/eebad3a3921abaf825066ded35e75fcb_8269557379530923477.png height=auto width=auto align=center alt=Profile Image />
+<img src=https://raw.githubusercontent.com/TokisakiNinoVn/TokisakiNinoVn/main/.github/images/ltt_1.png height=auto width=auto align=center alt=Profile Image />
 <!--END_SECTION:update_image-->
     </a>
     <!--<img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/> -->
