@@ -5,13 +5,7 @@
 </div>
 
 ## 🌠 About me 
-<!-- <a align="right" href="https://nino.is-a.dev/" target="_blank">
-    <img align="right" width="120" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/previeview_hide.jpg"/>
-</a> -->
-<!-- <p></p> -->
-## 
 <img src=https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg height=auto width=auto float=left alt=Profile Image />
-
 Tokisaki Nino.
 Version: 18.3
 
