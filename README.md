@@ -7,7 +7,7 @@
 ## 🌠 About me 
 <table style="width:100%; text-align:center;">
   <tr>
-    <td style="width:50%;"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
+    <td style="width:50%;"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:auto;max-witdh:200px;height:auto;"></td>
     <td style="width:50%;">
       <h2>Tokisaki Nino</h2>
         <p>🍀 A programmer, software architect. Likes watching anime, listening to music and playing games (Open World, ARPG Games).</p>
