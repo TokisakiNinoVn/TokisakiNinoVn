@@ -20,5 +20,5 @@ jobs:
           WIDTH: auto        # mặc định
           ALIGN: center        # mặc định
           IMG_ALT: Profile Image      # mặc định
-          COMMIT_MESSAGE: <your-commit-message>       # mặc định - Update Readme Image
+          COMMIT_MESSAGE: bot-update       # mặc định - Update Readme Image
 
