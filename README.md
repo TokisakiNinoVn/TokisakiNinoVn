@@ -5,9 +5,16 @@
 </div>
 
 ## 🌠 About me 
-<img src=https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg height=auto width=auto float=left alt=Profile Image />
-Tokisaki Nino.
-Version: 18.3
+<table>
+  <tr>
+    <td><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
+    <td>
+      <h2>Tokisaki Nino</h2>
+      <p>Version: 18.3</p>
+    </td>
+  </tr>
+</table>
+
 
 ## ✨ Facts 
 My favorite quote: "What kind of person do you expect me to be? Normal partner? Self-training subjects? A social acquaintance... or... an important teammate? Based on your attitude and expectations, I will "play" or "become" one of them." - Yelan - Genshin Impact.
