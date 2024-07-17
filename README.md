@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/images/Elysia(2).png" style="width=100%; align=center" alt=Profile Image />
+    <img src=".github/images/ElysiaBackground(2).png" style="width=100%; align=center" alt=Profile Image />
     <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you! ✨</h2>
     </a>
 </div>
