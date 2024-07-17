@@ -34,8 +34,8 @@ I have experience in parts related to PHP, Vuejs, Nodejs,...
 
 ## 🤖 Github summary 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=de9cdf"/>
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=de9cdf&layout=compact"/></p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c&layout=compact"/></p>
 
 ## 💖💖💖 Elysia 💖💖💖
 <div align="center">
