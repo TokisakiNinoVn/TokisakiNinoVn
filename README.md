@@ -23,7 +23,7 @@ My favorite quote: "What kind of person do you expect me to be? Normal partner? 
 I have experience in parts related to PHP, Vuejs, Nodejs,...
 
 
-## 📌 Contact
+## 📞 Contact
 <p align="center">
     <a href="https://www.facebook.com/nino.real.memory"><img width="50"src="https://i.pinimg.com/originals/8c/dc/59/8cdc592378c49ba442b2a425fc736acb.jpg" style="border-radius: 20%; margin: 7px;"/></a>
     <a href="https://www.pinterest.com/ninomemories/"><img width="50" src="https://i.pinimg.com/originals/31/d9/e6/31d9e68486ab34fc88cccaf64f2183da.jpg" style="border-radius: 20%; margin: 7px;"/></a>
