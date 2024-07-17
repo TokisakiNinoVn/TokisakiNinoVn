@@ -39,6 +39,13 @@ I have experience in parts related to PHP, Vuejs, Nodejs,...
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokisakiNinoVn&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c&layout=compact"/></p>
 
+## 🍀 Github Commits
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 💖💖💖 Elysia 💖💖💖
 <div align="center">
     <a href="https://github.com/TokisakiNinoVn">
@@ -50,13 +57,6 @@ I have experience in parts related to PHP, Vuejs, Nodejs,...
     <!--<img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/img/HoshinoAi_Waaaa.gif"/> -->
     </a>
 </div>
-
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/output/github-contribution-grid-snake.svg">
-</picture>
 
 ##
 `If you have any questions or simply want to talk about your day, I'm always ready to hear from you. I'm always here, waiting for you!🍀🍀🍀`
