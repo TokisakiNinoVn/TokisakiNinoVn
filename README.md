@@ -10,8 +10,7 @@
     <td style="width:50%;"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
     <td style="width:50%;">
       <h2>Tokisaki Nino</h2>
-      <p>Version: 18.3</p>
-      <p>Rank: A+</p>
+      <p>“Did you want to see me? Your Elysia will always meet your expectations. ♪.” – Elysia</p>
     </td>
   </tr>
 </table>
