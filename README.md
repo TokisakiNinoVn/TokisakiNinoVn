@@ -1,20 +1,20 @@
 <div align="center">
     <img src=".github/images/Elysia(2).png" style="width=100%; align=center" alt=Profile Image />
-    <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you!</h2>
+    <h2 align="center"> Hello!👋 I'm Nino! Nice to meet you! ✨</h2>
     </a>
 </div>
 
 ## 🌠 About me 
-<table>
+<table style="width:100%; text-align:center;">
   <tr>
-    <td><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
-    <td>
+    <td style="width:50%;"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
+    <td style="width:50%;">
       <h2>Tokisaki Nino</h2>
       <p>Version: 18.3</p>
+      <p>Rank: A+</p>
     </td>
   </tr>
 </table>
-
 
 ## ✨ Facts 
 My favorite quote: "What kind of person do you expect me to be? Normal partner? Self-training subjects? A social acquaintance... or... an important teammate? Based on your attitude and expectations, I will "play" or "become" one of them." - Yelan - Genshin Impact.
