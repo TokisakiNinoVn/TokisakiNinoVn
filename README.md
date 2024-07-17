@@ -10,7 +10,10 @@
     <td style="width:50%;"><img src="https://github.com/TokisakiNinoVn/TokisakiNinoVn/blob/main/.github/images/Elysia(21).jpg" alt="Profile Image" style="width:200px;height:auto;"></td>
     <td style="width:50%;">
       <h2>Tokisaki Nino</h2>
-      <p>“Did you want to see me? Your Elysia will always meet your expectations. ♪.” – Elysia</p>
+        <p>🍀 A programmer, software architect. Likes watching anime, listening to music and playing games (Open World, ARPG Games).</p>
+        <p>🍀 My version: 18.3.</p>
+        <p>🍀Personality: He, Him, She, Her - Unknown.</p>
+      <p>💖“Did you want to see me? Your Elysia will always meet your expectations. ♪.” – Elysia</p>
     </td>
   </tr>
 </table>
